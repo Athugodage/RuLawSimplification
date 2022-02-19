@@ -1,1 +1,3 @@
 This folder contains dataset of important documents published by Rossiyskaya Gazeta (Российская газета). Dataset contains several files.
+Manual correction was made for:
+#538 (important_docs2.csv)
