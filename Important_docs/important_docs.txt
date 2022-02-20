@@ -1,4 +1,4 @@
-This folder contains dataset of important documents published by Rossiyskaya Gazeta (Российская газета). Dataset contains several files.
+This folder contains dataset of important documents published by Rossiyskaya Gazeta (Российская газета). 
 
 To read dataset use only pandas. Excel doesn't show the data correctly.
 Example code:
