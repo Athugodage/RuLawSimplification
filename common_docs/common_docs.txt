@@ -1,0 +1,8 @@
+
+This folder contains dataset of common documents published by Rossiyskaya Gazeta (Российская газета). 
+Source: https://rg.ru/doc-search/
+
+To read dataset use only pandas. Excel doesn't show the data correctly.
+
+Example code:
+pandas.read_csv('common_docs1.csv', delimiter=';', encoding='windows-1251')
