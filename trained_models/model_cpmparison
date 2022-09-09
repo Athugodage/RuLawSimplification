@@ -1,0 +1,14 @@
+Rubert model:
+Training loss: 7.288700, Validation loss:	8.474073, Bleu:	0.026900, Gen Len: 20
+
+___
+
+mT5_m2o_english_crossSum:
+Loss: 11.7779 Bleu: 0.0432 Gen Len: 31.4033
+Link: https://huggingface.co/marcus2000/new_csebuetnlp
+
+____
+
+t5-base:
+Loss: 2.0736, Bleu: 0.0099, Gen Len: 19.0
+Link: https://huggingface.co/marcus2000/fine_tuned_t5_model
