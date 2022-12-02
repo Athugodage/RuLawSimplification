@@ -1,5 +1,0 @@
-This folder contains dataset of important documents published by Rossiyskaya Gazeta (Российская газета). 
-
-To read dataset use only pandas. Excel doesn't show the data correctly.
-Example code:
-pandas.read_csv('important_docs2.csv', delimiter=';', encoding='windows-1251')
