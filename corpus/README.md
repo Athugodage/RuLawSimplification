@@ -15,8 +15,9 @@ Specially edited for simplification. Contains 5 columns: Название док
 
 
 **Context**
-This dataset was proposed to train a model for Russian legal text simplification. This dataset has already helped to train GPT and T5 models for this task, as well as in Dynamic Topic Modelling task to analyze the history of Russian law from 2008 to 2022 .
-We have collected our data from Rossiyskaya Gazeta website. It's a Russian newspaper published by the Government of Russia. The daily newspaper serves as the official government gazette of the Government of the Russian Federation, publishing government-related affairs such as official decrees, statements and documents of state bodies, the promulgation of newly approved laws, Presidential decrees, and government announcements.
+This dataset was proposed to train a model for Russian legal text simplification. This dataset has already helped to train GPT and [T5](https://github.com/Athugodage/RuLawSimplification/blob/main/trained_models/ru_t5_test(rouge_metrics).ipynb) models for this task, as well as in [Dynamic Topic Modelling](https://github.com/Athugodage/legal_dtm/blob/main/BERTopic_DTM_legal_docs.ipynb) task to analyze the history of Russian law from 2008 to 2022 .
+
+We have collected our data from [Rossiyskaya Gazeta website](https://rg.ru/doc).  It's a Russian newspaper published by the Government of Russia. The daily newspaper serves as the official government gazette of the Government of the Russian Federation, publishing government-related affairs such as official decrees, statements and documents of state bodies, the promulgation of newly approved laws, Presidential decrees, and government announcements.
 Rossiyskaya Gazeta provides legal text descriptions for common people called "comments". But these descriptions are made only for important documents, so while there are hundreds of thousands of legal documents in Russia, only a couple of thousands has a "comment". We used this "comment" as simplified version of the document.
 
 
