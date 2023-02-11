@@ -14,5 +14,5 @@ Specially edited for simplification. Contains 5 columns: Название док
 
 
 
-**Unfiltered corpus** - Unfiltered legal corpus. Contains almost 3000 pairs of original doc and its comment that were available on rg.ru (Российская Газета)
+**Unfiltered corpus** - Unfiltered legal corpus. Contains almost 3000 pairs of original doc and its comment that were available on rg.ru (Российская Газета). Also available in Kaggle - https://www.kaggle.com/datasets/athugodage/russian-legal-text-parallel-corpus
 
