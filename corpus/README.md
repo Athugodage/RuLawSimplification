@@ -3,7 +3,7 @@ We present a unique corpus of Russian legal documents. Corpus is based on docume
 
 There are 3 versions of this dataset:
 
-**Full corpus** - Filtered legal corpus (almost 2000 pairs). Specially edited for simplification. Contains 5 columns: Название документа,  Ссылка, Текст (оригинал документа), Комментарий РГ, Дата.
+**[Full corpus](https://github.com/Athugodage/RuLawSimplification/blob/main/corpus/the_corpus.zip)** - Filtered legal corpus (almost 2000 pairs). Specially edited for simplification. Contains 5 columns: Название документа,  Ссылка, Текст (оригинал документа), Комментарий РГ, Дата.
 
 **Legal dataset 2023** - only text-comment pairs (without other columns). Available on Hugging Face: https://huggingface.co/datasets/marcus2000/legal_dataset2023 
 
