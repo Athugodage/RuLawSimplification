@@ -5,9 +5,10 @@ There are 3 versions of this dataset:
 
 **[Full corpus](https://github.com/Athugodage/RuLawSimplification/blob/main/corpus/the_corpus.zip)** - Filtered legal corpus (almost 2000 pairs). Specially edited for simplification. Contains 5 columns: Название документа,  Ссылка, Текст (оригинал документа), Комментарий РГ, Дата.
 
-**Legal dataset 2023** - only text-comment pairs (without other columns). Available on Hugging Face: https://huggingface.co/datasets/marcus2000/legal_dataset2023 
+**[Legal dataset 2023](https://huggingface.co/datasets/marcus2000/legal_dataset2023)** - only text-comment pairs (without other columns). Available on Hugging Face
 
-**Unfiltered corpus** - Unfiltered legal corpus. Contains almost 3000 pairs of original doc and its comment that were available on rg.ru (Российская Газета). Also available in Kaggle - https://www.kaggle.com/datasets/athugodage/russian-legal-text-parallel-corpus
+
+**[Unfiltered corpus](https://www.kaggle.com/datasets/athugodage/russian-legal-text-parallel-corpus)** - Unfiltered legal corpus. Contains almost 3000 pairs of original doc and its comment that were available on rg.ru (Российская Газета). Also available in Kaggle - https://www.kaggle.com/datasets/athugodage/russian-legal-text-parallel-corpus
 
 
 ## **Context**
